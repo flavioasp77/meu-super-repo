@@ -2,3 +2,5 @@ Arroz
 Feijão
 Pizza
 Lazanha
+Espaquete
+Raviole
